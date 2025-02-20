@@ -1,4 +1,4 @@
 # foundations-hands-on-1
 
-##Hello
-Masashi
+**Hello
+I'm Masashi
